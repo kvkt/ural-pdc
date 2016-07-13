@@ -2,7 +2,7 @@
   {% for link in page.navigation %}
   <li>
     <i class="fa-li fa {{ link.icon }}"></i><a href="{{ link.url | prepend: site.baseurl }}" {% if page.url == link.url %}class="selected"{% endif %}>{{ link.text }}</a>
-    {% if page.url contains link.url %}
+    {% if link.subnavigation and page.url contains link.url %}
     <ul class="fa-ul">
       {% for sub in link.subnavigation %}
       <li>
