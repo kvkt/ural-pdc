@@ -1,0 +1,26 @@
+---
+layout: default
+---
+
+<table class="pure-table pure-table-striped width-max">
+  <thead>
+    <tr>
+      <th style="width: 20%">Time</th>
+      <th class="align-left" style="width: 80%">Presentation</th>
+    </tr>
+  </thead>
+  <tbody>
+    {% for entry in page.program %}
+    <tr>
+      <td class="align-center">{{ entry.from }}&ndash;{{ entry.till }}</td>
+      <td class="align-left">
+      {% if entry.by %}
+        <em>{{ entry.by }}</em> &mdash; {{ entry.talk }}
+      {% else %}
+        {{ entry.talk }}
+      {% endif %}
+      </td>
+    </tr>
+    {% endfor %}
+  </tbody>
+</table>
