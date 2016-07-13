@@ -2,8 +2,9 @@
   {% for link in page.navigation %}
   <li>
     <i class="fa-li fa {{ link.icon }}"></i><a href="{{ link.url | prepend: site.baseurl }}" {% if page.url == link.url %}class="selected"{% endif %}>{{ link.text }}</a>
-    {% for sub in link.subnavigation %}
-      {% if forloop.first %}<ul class="fa-ul">{% endif %}
+    {% if page.url contains link.url %}
+    <ul class="fa-ul">
+      {% for sub in link.subnavigation %}
       <li>
         {% if sub.url contains "http://" %}
         <i class="fa-li fa {{ sub.icon }}"></i><a href="{{ sub.url }}" {% if page.url == sub.url %}class="selected"{% endif %}>{{ sub.text }}</a>
@@ -11,8 +12,9 @@
         <i class="fa-li fa {{ sub.icon }}"></i><a href="{{ sub.url | prepend: site.baseurl }}" {% if page.url == sub.url %}class="selected"{% endif %}>{{ sub.text }}</a>
         {% endif %}
       </li>
-      {% if forloop.last %}</ul>{% endif %}
-    {% endfor %}  
+      {% endfor %}
+    </ul>
+    {% endif %}
   </li>
   {% endfor %}
 </ul>
