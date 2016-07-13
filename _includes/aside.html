@@ -1,12 +1,15 @@
 <ul id="menu" class="fa-ul">
   {% for link in page.navigation %}
   <li>
-    <i class="fa-li fa {{ link.icon }}"></i><a href="{{ link.url }}" {% if page.url == link.url %}class="selected"{% endif %}>{{ link.text }}</a>
+    <i class="fa-li fa {{ link.icon }}"></i><a href="{{ link.url | prepend: site.baseurl }}" {% if page.url == link.url %}class="selected"{% endif %}>{{ link.text }}</a>
     {% for sub in link.subnavigation %}
       {% if forloop.first %}<ul class="fa-ul">{% endif %}
       <li>
-        {% assign html = sub.url | append: '.html' %}
-        <i class="fa-li fa {{ sub.icon }}"></i><a href="{{ sub.url }}" {% if page.url == html %}class="selected"{% endif %}>{{ sub.text }}</a>
+        {% if sub.url contains "http" %}
+        <i class="fa-li fa {{ sub.icon }}"></i><a href="{{ sub.url }}" {% if page.url == sub.url %}class="selected"{% endif %}>{{ sub.text }}</a>
+        {% else %}
+        <i class="fa-li fa {{ sub.icon }}"></i><a href="{{ sub.url | prepend: site.baseurl }}" {% if page.url == sub.url %}class="selected"{% endif %}>{{ sub.text }}</a>
+        {% endif %}
       </li>
       {% if forloop.last %}</ul>{% endif %}
     {% endfor %}  

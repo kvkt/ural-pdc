@@ -19,7 +19,7 @@
   <link rel="alternate" type="application/atom+xml" title="{{ site.title }}" href="/posts.xml">
 
   {% if page.url == '/' %}
-  <link rel="canonical" href="/2016/">
-  <meta http-equiv="refresh" content="0; url=/2016/">
+  <link rel="canonical" href="{{ "/2016/" | prepend: site.baseurl }}">
+  <meta http-equiv="refresh" content="0; url={{ "/2016/" | prepend: site.baseurl }}">
   {% endif %}
 </head>
