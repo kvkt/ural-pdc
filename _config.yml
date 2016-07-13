@@ -7,10 +7,7 @@ markdown: kramdown
 exclude:
 - Gemfile*
 - README.md
-- likely/styles
-- likely/source
-- likely/test
-- likely/.*
+- LICENSE.txt
 safe: true
 timezone: Asia/Yekaterinburg
 encoding: UTF-8
