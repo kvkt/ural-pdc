@@ -15,11 +15,10 @@
 
   <!-- <link rel="shortcut icon" href="/favicon.ico" /> -->
   <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
-  <link rel="alternate" type="application/atom+xml" title="{{ site.title }}" href="/posts.xml">
 
   {% if page.url == '/' %}
-  <link rel="canonical" href="{{ site.recent | prepend: '/' | prepend: site.baseurl | prepend: site.url | append: '/' }}">
   <meta http-equiv="refresh" content="0; url={{ site.recent | prepend: '/' | prepend: site.baseurl | append: '/' }}">
+  <link rel="canonical" href="{{ site.recent | prepend: '/' | prepend: site.baseurl | prepend: site.url | append: '/' }}">
   {% else %}
   <link rel="canonical" href="{{ page.url | replace: 'index.html', '' | prepend: site.baseurl | prepend: site.url }}">
   {% endif %}
