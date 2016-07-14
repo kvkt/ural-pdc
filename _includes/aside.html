@@ -1,5 +1,5 @@
 <ul id="menu" class="fa-ul">
-  {% for link in page.navigation %}
+  {% for link in layout.navigation %}
   <li>
     <i class="fa-li fa {{ link.icon }}"></i><a href="{{ link.url | prepend: site.baseurl }}" {% if page.url == link.url %}class="selected"{% endif %}>{{ link.text }}</a>
     {% if link.subnavigation and page.url contains link.url %}
