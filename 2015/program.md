@@ -63,7 +63,7 @@ program:
 
 - from: '15:00'
   till: '15:20'
-  talk: 'Coffee break'
+  talk: 'Coffee Break'
 
 - from: '15:20'
   till: '15:40'
@@ -87,7 +87,7 @@ program:
 
 - from: '16:40'
   till: '17:00'
-  talk: 'Coffee break'
+  talk: 'Coffee Break'
 
 - from: '17:00'
   till: '17:20'
