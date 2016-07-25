@@ -6,9 +6,35 @@ description: 2nd Ural Workshop on Parallel, Distributed, and Cloud Computing for
 
 [Krasovskii Institute of Mathematics and Mechanics](http://www.imm.uran.ru/) and [Ural Federal University](http://urfu.ru/en/) are jointly organizing the 2nd Ural Workshop on Parallel, Distributed, and Cloud Computing for Young Scientists (Ural-PDC 2016). The aim of the workshop is to build the community of young researchers who work on modern problems in parallel, distributed, cloud computing and to provide an academic forum that fosters them to share their ideas and results.
 
+## Call for Papers
+
+We invite submission of papers that present original previously unpublished research in all areas of parallel, distributed, and cloud computing. Topics of interest include, but are not limited to, the following areas:
+
+* High Performance Computing
+* Distributed Computing
+* Cloud Computing
+* Big Data Processing
+* Parallel Computing Education
+* Applications of Parallel and Distributed Computing
+
 ## Important Dates
 
-* The submission process has not started yet.
+* **Paper submission deadline:** September 5, 2016.
+* **Notification of acceptance:** September 26, 2016.
+* **Camera-ready version deadline:** October 3, 2016.
+* **Workshop date:** October 6, 2016.
+
+## Proceedings
+
+We plan to publish our proceedings in [CEUR-WS.org](http://ceur-ws.org/), which is indexed by Scopus. Proceedings of the previous Ural-PDC workshop are available at <http://ceur-ws.org/Vol-1513/>.
+
+## Paper Submission
+
+Authors are invited to submit papers in the PDF format written in LaTeX using the [Springer LNCS style](https://www.springer.com/computer/lncs?SGWID=0-164-6-793341-0) ([LaTeX template download](ftp://ftp.springer.de/pub/tex/latex/llncs/latex2e/llncs2e.zip)). The paper must be **5&ndash;10 pages** including figures, tables, and references. We do not accept submissions in Microsoft Word. The authors should submit papers using the EasyChair conference system:
+
+* <https://easychair.org/conferences/?conf=uralpdc2016>
+
+Each paper will be reviewed by at least three program committee members. We follow the post-proceedings publication model. Therefore, we will publish only those papers that are presented at the workshop. Final versions of accepted papers should include LaTeX sources.
 
 ## Language
 
