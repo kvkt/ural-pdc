@@ -13,10 +13,7 @@ description: Organizing and program committees of Ural-PDC 2016.
 * Vladimir Zverev, Ural Federal University, Yekaterinburg, Russia.
 * Svyatoslav Solodushkin, Ural Federal University, Yekaterinburg, Russia.
 * Vladimir Ustinov, Ural Federal University, Yekaterinburg, Russia.
-* Dmitry Ermakov, Krasovskii Institute of Mathematics and Mechanics, Yekaterinburg, Russia.
 * Evgeny Ivanko, Krasovskii Institute of Mathematics and Mechanics, Yekaterinburg, Russia.
-* Alexander Igumnov, Krasovskii Institute of Mathematics and Mechanics, Yekaterinburg, Russia.
-* Sergey Scharf, Krasovskii Institute of Mathematics and Mechanics, Yekaterinburg, Russia.
 
 ## Organizing Committee
 
