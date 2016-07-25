@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Ural-PDC 2015 Committees
-description: Organizing and program committees of Ural-PDC 2015.
+title: Ural-PDC 2016 Committees
+description: Organizing and program committees of Ural-PDC 2016.
 ---
 
 ## Program Committee
@@ -17,17 +17,6 @@ description: Organizing and program committees of Ural-PDC 2015.
 * Evgeny Ivanko, Krasovskii Institute of Mathematics and Mechanics, Yekaterinburg, Russia.
 * Alexander Igumnov, Krasovskii Institute of Mathematics and Mechanics, Yekaterinburg, Russia.
 * Sergey Scharf, Krasovskii Institute of Mathematics and Mechanics, Yekaterinburg, Russia.
-* Olga Yufryakova, Northern (Arctic) Federal University, Arkhangelsk, Russia.
-* Berezovskiy Vladimir, Northern (Arctic) Federal University, Arkhangelsk, Russia.
-* Vladislav Shchapov, Institute of Continuous Media Mechanics UrB RAS, Perm, Russia.
-* Gleb Radchenko, South Ural State University, Chelyabinsk, Russia.
-* Mikhail Zymbler, South Ural State University, Chelyabinsk, Russia.
-* Anastasia Shamakina, South Ural State University, Chelyabinsk, Russia.
-* Vladimir Titarev, Dorodnicyn Computing Center RAS, Moscow, Russia.
-* Evdokiya Golovchenko, Keldysh Institute of Applied Mathematics RAS, Moscow, Russia.
-* Sergey Orlov, Transport and Telecommunication Institute, Riga, Latvia.
-* Alexander Avdeev, Intel.
-* Dmitry Sivkov, Intel.
 
 ## Organizing Committee
 
@@ -38,3 +27,4 @@ description: Organizing and program committees of Ural-PDC 2015.
 * Evgheniy Kuklin, Krasovskii Institute of Mathematics and Mechanics, Yekaterinburg, Russia.
 * Alexander Bersenev, Krasovskii Institute of Mathematics and Mechanics, Yekaterinburg, Russia.
 * Konstantin Ushenin, Ural Federal University, Yekaterinburg, Russia.
+* Natalia Neustroeva, Krasovskii Institute of Mathematics and Mechanics, Yekaterinburg, Russia.
