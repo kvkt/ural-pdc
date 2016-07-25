@@ -8,6 +8,10 @@ exclude:
 - Gemfile*
 - README.md
 - LICENSE.txt
+gems:
+- jekyll-sitemap
+whitelist:
+- jekyll-sitemap
 safe: true
 timezone: Asia/Yekaterinburg
 encoding: UTF-8
