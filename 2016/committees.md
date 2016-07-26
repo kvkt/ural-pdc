@@ -18,6 +18,8 @@ description: Organizing and program committees of Ural-PDC 2016.
 * Mikhail Zymbler, South Ural State University, Chelyabinsk, Russia.
 * Gleb Radchenko, South Ural State University, Chelyabinsk, Russia.
 * Vladislav Schapov, Institute of Continuous Media Mechanics, Perm, Russia.
+* Anastasia Shamakina, High Performance Center Stuttgart, Germany.
+* Vladimir Titarev, Dorodnicyn Computing Center RAS, Moscow, Russia.
 
 ## Organizing Committee
 
