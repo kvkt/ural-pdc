@@ -17,6 +17,7 @@ description: Organizing and program committees of Ural-PDC 2016.
 * Oleg Shapovalov, Singularis Lab, LLC, Volgograd, Russia.
 * Mikhail Zymbler, South Ural State University, Chelyabinsk, Russia.
 * Gleb Radchenko, South Ural State University, Chelyabinsk, Russia.
+* Vladislav Schapov, Institute of Continuous Media Mechanics, Perm, Russia.
 
 ## Organizing Committee
 
