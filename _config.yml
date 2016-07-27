@@ -4,6 +4,8 @@ email: avs@imm.uran.ru
 baseurl: ''
 url: http://ural-pdc.org
 markdown: kramdown
+sass:
+  style: compressed
 exclude:
 - Gemfile*
 - README.md
