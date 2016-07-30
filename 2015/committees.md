@@ -9,7 +9,6 @@ description: Organizing and program committees of Ural-PDC 2015.
 * Vitalii Ivanovich Berdyshev, Full Member of the Russian Academy of Sciences, Krasovskii Institute of Mathematics and Mechanics, Yekaterinburg, Russia. Chair of the Program Committee.
 * Dr. Elena Akimova, Krasovskii Institute of Mathematics and Mechanics, Yekaterinburg, Russia.
 * Andrey Sozykin, Krasovskii Institute of Mathematics and Mechanics, Yekaterinburg, Russia.
-* Segrey Pravdin, Ghent University, Belgium.
 * Vladimir Zverev, Ural Federal University, Yekaterinburg, Russia.
 * Svyatoslav Solodushkin, Ural Federal University, Yekaterinburg, Russia.
 * Vladimir Ustinov, Ural Federal University, Yekaterinburg, Russia.
