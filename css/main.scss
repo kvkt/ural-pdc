@@ -37,10 +37,10 @@ a, a:visited, a:hover, a:active {
 
 article {
     p, li {
-        hyphens: auto;
-        -webkit-hyphens: auto;
-        -moz-hyphens: auto;
-        -ms-hyphens: auto;
+        hyphens: manual;
+        -webkit-hyphens: manual;
+        -moz-hyphens: manual;
+        -ms-hyphens: manual;
     }
 }
 

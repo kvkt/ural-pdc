@@ -34,7 +34,8 @@ We plan to publish our proceedings in [CEUR-WS.org](http://ceur-ws.org/), which 
 
 Authors are invited to submit papers in the PDF format written in **LaTeX** using the [Springer LNCS style](https://www.springer.com/computer/lncs?SGWID=0-164-6-793341-0) ([LaTeX template download](ftp://ftp.springer.de/pub/tex/latex/llncs/latex2e/llncs2e.zip)). The paper must be **5&ndash;10 pages** including figures, tables, and references. We do not accept submissions in Microsoft Word. The authors should submit papers using the EasyChair conference system.
 
-* <https://easychair.org/conferences/?conf=uralpdc2016>
+* [https://easychair.org/&shy;conferences/?conf=&shy;uralpdc2016](https://easychair.org/conferences/?conf=uralpdc2016)
+
 
 Each paper will be reviewed by at least three program committee members. We follow the post-proceedings publication model. Therefore, we will publish only those papers that are presented at the workshop. Final versions of accepted papers should include LaTeX sources.
 
