@@ -35,6 +35,15 @@ a, a:visited, a:hover, a:active {
     text-align: right;
 }
 
+article {
+    p, li {
+        hyphens: auto;
+        -webkit-hyphens: auto;
+        -moz-hyphens: auto;
+        -ms-hyphens: auto;
+    }
+}
+
 #menu {
     @media screen and (min-width: 64em) {
         padding-top: 4.5em;
