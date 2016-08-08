@@ -35,13 +35,8 @@ a, a:visited, a:hover, a:active {
     text-align: right;
 }
 
-article {
-    p, li {
-        hyphens: auto;
-        -webkit-hyphens: auto;
-        -moz-hyphens: auto;
-        -ms-hyphens: auto;
-    }
+article li {
+    word-wrap: break-word;
 }
 
 #menu {
