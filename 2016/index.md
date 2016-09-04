@@ -21,7 +21,7 @@ We invite submission of papers that present original previously unpublished rese
 
 ## Important Dates
 
-* **Paper submission deadline:** September 5, 2016.
+* **Paper submission deadline:** <s>September 5, 2016</s> September 12, 2016.
 * **Notification of acceptance:** September 26, 2016.
 * **Camera-ready version deadline:** October 3, 2016.
 * **Workshop date:** October 6, 2016.
