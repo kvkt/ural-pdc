@@ -20,6 +20,7 @@ description: Organizing and program committees of Ural-PDC 2016.
 * Vladislav Schapov, Institute of Continuous Media Mechanics, Perm, Russia.
 * Anastasia Shamakina, High Performance Center Stuttgart, Germany.
 * Vladimir Titarev, Dorodnicyn Computing Center RAS, Moscow, Russia.
+* Alexei Dukhanov, ITMO University, Saint Petersburg, Russia.
 
 ## Organizing Committee
 
