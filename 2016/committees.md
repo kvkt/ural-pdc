@@ -8,19 +8,19 @@ description: Organizing and program committees of Ural-PDC 2016.
 
 * Vitalii Ivanovich Berdyshev, Full Member of the Russian Academy of Sciences, Krasovskii Institute of Mathematics and Mechanics, Yekaterinburg, Russia. Chair of the Program Committee.
 * Dr. Elena Akimova, Krasovskii Institute of Mathematics and Mechanics, Yekaterinburg, Russia.
-* Andrey Sozykin, Krasovskii Institute of Mathematics and Mechanics, Yekaterinburg, Russia.
-* Sergey Pravdin, Ghent University, Belgium.
-* Vladimir Zverev, Ural Federal University, Yekaterinburg, Russia.
-* Svyatoslav Solodushkin, Ural Federal University, Yekaterinburg, Russia.
-* Vladimir Ustinov, Ural Federal University, Yekaterinburg, Russia.
+* Alexei Dukhanov, ITMO University, Saint Petersburg, Russia.
 * Evgeny Ivanko, Krasovskii Institute of Mathematics and Mechanics, Yekaterinburg, Russia.
-* Oleg Shapovalov, Singularis Lab, LLC, Volgograd, Russia.
-* Mikhail Zymbler, South Ural State University, Chelyabinsk, Russia.
+* Sergey Pravdin, Ghent University, Belgium.
 * Gleb Radchenko, South Ural State University, Chelyabinsk, Russia.
 * Vladislav Schapov, Institute of Continuous Media Mechanics, Perm, Russia.
 * Anastasia Shamakina, High Performance Center Stuttgart, Germany.
+* Oleg Shapovalov, Singularis Lab, LLC, Volgograd, Russia.
+* Svyatoslav Solodushkin, Ural Federal University, Yekaterinburg, Russia.
+* Andrey Sozykin, Krasovskii Institute of Mathematics and Mechanics, Yekaterinburg, Russia.
 * Vladimir Titarev, Dorodnicyn Computing Center RAS, Moscow, Russia.
-* Alexei Dukhanov, ITMO University, Saint Petersburg, Russia.
+* Vladimir Ustinov, Ural Federal University, Yekaterinburg, Russia.
+* Vladimir Zverev, Ural Federal University, Yekaterinburg, Russia.
+* Mikhail Zymbler, South Ural State University, Chelyabinsk, Russia.
 
 ## Organizing Committee
 
