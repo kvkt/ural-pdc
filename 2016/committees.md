@@ -12,7 +12,7 @@ description: Organizing and program committees of Ural-PDC 2016.
 * Evgeny Ivanko, Krasovskii Institute of Mathematics and Mechanics, Yekaterinburg, Russia.
 * Sergey Pravdin, Ghent University, Belgium.
 * Gleb Radchenko, South Ural State University, Chelyabinsk, Russia.
-* Vladislav Schapov, Institute of Continuous Media Mechanics, Perm, Russia.
+* Vladislav Shchapov, Institute of Continuous Media Mechanics, Perm, Russia.
 * Anastasia Shamakina, High Performance Center Stuttgart, Germany.
 * Oleg Shapovalov, Singularis Lab, LLC, Volgograd, Russia.
 * Svyatoslav Solodushkin, Ural Federal University, Yekaterinburg, Russia.
