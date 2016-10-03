@@ -6,7 +6,7 @@ description: 2nd Ural Workshop on Parallel, Distributed, and Cloud Computing for
 
 [Krasovskii Institute of Mathematics and Mechanics](http://www.imm.uran.ru/) and [Ural Federal University](http://urfu.ru/en/) are jointly organizing the 2nd Ural Workshop on Parallel, Distributed, and Cloud Computing for Young Scientists (Ural-PDC 2016). The aim of the workshop is to build the community of young researchers who work on modern problems in parallel, distributed, cloud computing and to provide an academic forum that fosters them to share their ideas and results.
 
-The Ural-PDC 2016 workshop will be held on October 6, 2016 at the Ural Federal University ([4&nbsp;Turgeneva Str.](https://2gis.ru/ekaterinburg/firm/1267620943605143), Yekaterinburg, Russia), room&nbsp;506.
+The Ural-PDC 2016 workshop will be held on October 6, 2016 at the Ural Federal University ([4&nbsp;Turgeneva Str.](https://2gis.ru/ekaterinburg/firm/1267620943605143), Yekaterinburg, Russia), room&nbsp;507.
 
 ## Call for Papers
 
