@@ -8,6 +8,8 @@ description: 2nd Ural Workshop on Parallel, Distributed, and Cloud Computing for
 
 The Ural-PDC 2016 workshop will be held on October 6, 2016 at the Ural Federal University ([4&nbsp;Turgeneva Str.](https://2gis.ru/ekaterinburg/firm/1267620943605143), Yekaterinburg, Russia), room&nbsp;507.
 
+Those who need a formal invitation or a certificate of participation, please let us know via the following Google Form: <https://goo.gl/forms/afDrFV8ywQYP6JtF3>.
+
 ## Call for Papers
 
 We invite submission of papers that present original previously unpublished research in all areas of parallel, distributed, and cloud computing. Topics of interest include, but are not limited to, the following areas:
