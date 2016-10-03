@@ -26,6 +26,7 @@ description: Organizing and program committees of Ural-PDC 2016.
 ## Invited Reviewers
 
 * Alexander Bocharov, Ural Federal University, Yekaterinburg, Russia.
+* Constantin Pan, Postgres Professional, Moscow, Russia.
 
 ## Organizing Committee
 
