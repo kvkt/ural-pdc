@@ -1,7 +1,7 @@
 ---
-layout: program
-title: Ural-PDC 2016 Program
-description: Program of the Ural-PDC 2016 workshop.
+layout: programme
+title: Ural-PDC 2016 Programme
+description: Programme of the Ural-PDC 2016 workshop.
 program:
 - from: '09:30'
   till: '10:00'
