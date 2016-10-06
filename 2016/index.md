@@ -6,9 +6,9 @@ description: 2nd Ural Workshop on Parallel, Distributed, and Cloud Computing for
 
 [Krasovskii Institute of Mathematics and Mechanics](http://www.imm.uran.ru/) and [Ural Federal University](http://urfu.ru/en/) are jointly organizing the 2nd Ural Workshop on Parallel, Distributed, and Cloud Computing for Young Scientists (Ural-PDC 2016). The aim of the workshop is to build the community of young researchers who work on modern problems in parallel, distributed, cloud computing and to provide an academic forum that fosters them to share their ideas and results.
 
-The Ural-PDC 2016 workshop will be held on October 6, 2016 at the Ural Federal University ([4&nbsp;Turgeneva Str.](https://2gis.ru/ekaterinburg/firm/1267620943605143), Yekaterinburg, Russia), room&nbsp;507.
+The Ural-PDC 2016 workshop was held on October 6, 2016 at the Ural Federal University ([4&nbsp;Turgeneva Str.](https://2gis.ru/ekaterinburg/firm/1267620943605143), Yekaterinburg, Russia), room&nbsp;507. We have received 18 submissions, each of which has been reviewed by at least three program committee members.
 
-Those who need a formal invitation or a certificate of participation, please let us know via the following Google Form: <https://goo.gl/forms/afDrFV8ywQYP6JtF3>.
+See you next year!
 
 ## Call for Papers
 
@@ -30,7 +30,7 @@ We invite submission of papers that present original previously unpublished rese
 
 ## Proceedings
 
-We have received 18 submissions, each of which has been reviewed by at least three program committee members. The committee decided to accept 12 papers. We plan to publish our proceedings in [CEUR-WS.org](http://ceur-ws.org/), which is indexed by Scopus. Proceedings of the previous Ural-PDC workshop are available at <http://ceur-ws.org/Vol-1513/>.
+We plan to publish our proceedings in [CEUR-WS.org](http://ceur-ws.org/), which is indexed by Scopus. Proceedings of the previous Ural-PDC workshop are available at <http://ceur-ws.org/Vol-1513/>.
 
 ## Paper Submission
 
