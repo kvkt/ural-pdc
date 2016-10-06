@@ -93,3 +93,5 @@ program:
   till: '16:00'
   talk: 'Conference Closing'
 ---
+
+The Ural-PDC 2016 workshop will be held on October 6, 2016 at the Ural Federal University ([4&nbsp;Turgeneva Str.](https://2gis.ru/ekaterinburg/firm/1267620943605143), Yekaterinburg, Russia), room&nbsp;507.

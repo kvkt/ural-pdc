@@ -104,3 +104,5 @@ program:
   by:   'E. Akimova, V. Misilov, M. Martyshko, A. Skurydina'
   talk: 'Specialized web portal for solving problems on multiprocessor computing systems'
 ---
+
+The Ural-PDC 2015 workshop was held on November 17, 2015 at the Conference hall of the Krasovskii Institute of Mathematics and Mechanics ([16&nbsp;Sofia&nbsp;Kovalevskaya Str.](http://2gis.ru/ekaterinburg/firm/1267165676521629), Yekaterinburg, Russia).
