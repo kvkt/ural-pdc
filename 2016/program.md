@@ -19,7 +19,7 @@ program:
 - from: '10:15'
   till: '11:00'
   by:   'A. Sozykin'
-  talk: 'A Tool for Molecular Dynamics Modeling of Metastable States (Invited&nbsp;Talk)'
+  talk: 'Post-Processing the Results of Metastable States Molecular Dynamics Simulation (Invited&nbsp;Talk)'
 
 - from: '11:00'
   till: '11:15'
