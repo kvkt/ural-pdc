@@ -4,7 +4,7 @@ title: Ural-PDC 2015
 description: 1st Ural Workshop on Parallel, Distributed, and Cloud Computing for Young Scientists (Ural-PDC 2015).
 ---
 
-[Krasovskii Institute of Mathematics and Mechanics](http://www.imm.uran.ru/) and [Ural Federal University](http://urfu.ru/en/) are jointly organizing the 1st Ural Workshop on Parallel, Distributed, and Cloud Computing for Young Scientists (Ural-PDC 2015). The aim of the workshop is to build the community of young researchers who work on modern problems in parallel, distributed, cloud computing and to provide an academic forum that fosters them to share their ideas and results.
+[Krasovskii Institute of Mathematics and Mechanics](http://wwweng.imm.uran.ru/default.aspx) and [Ural Federal University](http://urfu.ru/en/) are jointly organizing the 1st Ural Workshop on Parallel, Distributed, and Cloud Computing for Young Scientists (Ural-PDC 2015). The aim of the workshop is to build the community of young researchers who work on modern problems in parallel, distributed, cloud computing and to provide an academic forum that fosters them to share their ideas and results.
 
 The Ural-PDC 2015 workshop was held on November 17, 2015 at the Conference hall of the Krasovskii Institute of Mathematics and Mechanics ([16&nbsp;Sofia&nbsp;Kovalevskaya Str.](http://2gis.ru/ekaterinburg/firm/1267165676521629), Yekaterinburg, Russia). We have received 23 submissions, each of which has been reviewed by at least three program committee members. The committee decided to accept 14 papers. The workshop was attended by more than 30 people from 5 cities.
 
