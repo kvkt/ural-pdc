@@ -34,6 +34,6 @@ description: Organizing and program committees of Ural-PDC 2016.
 * Alexander Bersenev, Krasovskii Institute of Mathematics and Mechanics, Yekaterinburg, Russia.
 * Mikhail Chernoskutov, Krasovskii Institute of Mathematics and Mechanics, Yekaterinburg, Russia.
 * Timofey Epanchintsev, Krasovskii Institute of Mathematics and Mechanics, Yekaterinburg, Russia.
-* Evgheniy Kuklin, Krasovskii Institute of Mathematics and Mechanics, Yekaterinburg, Russia.
+* Evgeniy Kuklin, Krasovskii Institute of Mathematics and Mechanics, Yekaterinburg, Russia.
 * Natalia Neustroeva, Krasovskii Institute of Mathematics and Mechanics, Yekaterinburg, Russia.
 * Dmitry Ustalov, Krasovskii Institute of Mathematics and Mechanics, Yekaterinburg, Russia.
