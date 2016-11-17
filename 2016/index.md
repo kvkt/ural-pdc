@@ -30,7 +30,7 @@ We invite submission of papers that present original previously unpublished rese
 
 ## Proceedings
 
-We plan to publish our proceedings in [CEUR-WS.org](http://ceur-ws.org/), which is indexed by Scopus. Proceedings of the previous Ural-PDC workshop are available at <http://ceur-ws.org/Vol-1513/>.
+Proceedings of the 2nd Ural-PDC workshop: <http://ceur-ws.org/Vol-1729/>.
 
 ## Paper Submission
 
