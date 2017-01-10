@@ -8,7 +8,10 @@ description: 3rd Ural Workshop on Parallel, Distributed, and Cloud Computing for
 
 ## Important Dates
 
-* To be announced.
+* **Paper submission deadline:** TBD.
+* **Notification of acceptance:** TBD.
+* **Camera-ready version deadline:** TBD.
+* **Workshop date:** October 12, 2017.
 
 ## Language
 
