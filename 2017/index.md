@@ -10,7 +10,7 @@ description: 3rd Ural Workshop on Parallel, Distributed, and Cloud Computing for
 
 We invite submission of papers that present original previously unpublished research in all areas of parallel, distributed, and cloud computing. Topics of interest include, but are not limited to, the following areas:
 
-* High Performance Computing
+* High-Performance Computing
 * Distributed Computing
 * Cloud Computing
 * Big Data Processing
