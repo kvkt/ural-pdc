@@ -12,7 +12,7 @@ See you next year!
 
 ## Call for Papers
 
-We invite submission of papers that present original previously unpublished research in all areas of parallel, distributed, and cloud computing. Topics of interest include, but are not limited to, the following areas:
+We invite submission of papers that present original previously unpublished research in all areas of parallel, distributed, and cloud computing. These papers will be presented during the workshop as oral presentations. Topics of interest include, but are not limited to, the following areas:
 
 * High-Performance Computing
 * Distributed Computing
