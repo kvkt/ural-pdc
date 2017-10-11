@@ -17,7 +17,6 @@ description: Organizing and program committees of Ural-PDC 2017.
 * Yuri A. Kochetov, Sobolev Institute of Mathematics, Novosibirsk, Russia.
 * Vsevolod Kotlyarov, Peter the Great St. Petersburg Polytechnic University, Saint Petersburg, Russia.
 * Alina Latipova, South Ural State University, Chelyabinsk, Russia.
-* Ushakova Olga, Krasovskii Institute of Mathematics and Mechanics, Yekaterinburg, Russia.
 * Leonid Popov, Krasovskii Institute of Mathematics and Mechanics, Yekaterinburg, Russia.
 * Sergei Pravdin, Krasovskii Institute of Mathematics and Mechanics, Yekaterinburg, Russia.
 * Yaroslav Salii, Ural Federal University, Yekaterinburg, Russia.
@@ -28,6 +27,7 @@ description: Organizing and program committees of Ural-PDC 2017.
 * Andrey Sheka, Examus, Yekaterinburg, Russia.
 * Svyatoslav Solodushkin, Ural Federal University, Yekaterinburg, Russia.
 * Andrey Sozykin, Krasovskii Institute of Mathematics and Mechanics, Yekaterinburg, Russia.
+* Olga Ushakova, Krasovskii Institute of Mathematics and Mechanics, Yekaterinburg, Russia.
 * Konstantin Ushenin, Ural Federal University, Yekaterinburg, Russia.
 * Dmitry Ustalov, Krasovskii Institute of Mathematics and Mechanics, Yekaterinburg, Russia.
 * Vlada Zhernova, South Ural State University, Chelyabinsk, Russia.
