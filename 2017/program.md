@@ -57,7 +57,7 @@ program:
 - from: '14:00'
   till: '14:20'
   by:   'P. Drobintsev, V. Kotlyarov, A. Levchenko, A. Maslakov'
-  talk: 'Adapting HPC Applications for Hybrid Supercomputer: an Effective Implementation Approach'
+  talk: 'An Effective Implementation Approach for Adapting of HPC Applications'
 
 - from: '14:20'
   till: '14:40'
