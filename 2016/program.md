@@ -9,7 +9,7 @@ program:
 
 - from: '10:00'
   till: '10:15'
-  talk: 'Conference Opening'
+  talk: 'Workshop Opening'
 
 - from: '10:15'
   till: '11:00'
@@ -91,7 +91,7 @@ program:
 
 - from: '15:45'
   till: '16:00'
-  talk: 'Conference Closing'
+  talk: 'Workshop Closing'
 ---
 
 The Ural-PDC 2016 workshop was held on October 6, 2016 at the Ural Federal University ([4&nbsp;Turgeneva Str.](https://2gis.ru/ekaterinburg/firm/1267620943605143), Yekaterinburg, Russia), room&nbsp;507.

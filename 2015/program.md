@@ -5,7 +5,7 @@ description: Programme of the Ural-PDC 2015 workshop.
 program:
 - from: '10:00'
   till: '10:45'
-  talk: 'Conference Opening'
+  talk: 'Workshop Opening'
 
 - from: '10:15'
   till: '10:45'
@@ -103,6 +103,10 @@ program:
   till: '18:00'
   by:   'E. Akimova, V. Misilov, M. Martyshko, A. Skurydina'
   talk: 'Specialized web portal for solving problems on multiprocessor computing systems'
+
+- from: '18:00'
+  till: '18:15'
+  talk: 'Workshop Closing'
 ---
 
 The Ural-PDC 2015 workshop was held on November 17, 2015 at the Conference hall of the Krasovskii Institute of Mathematics and Mechanics ([16&nbsp;Sofia&nbsp;Kovalevskaya Str.](http://2gis.ru/ekaterinburg/firm/1267165676521629), Yekaterinburg, Russia).
