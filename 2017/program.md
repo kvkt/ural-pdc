@@ -18,8 +18,8 @@ program:
 
 - from: '10:40'
   till: '11:00'
-  by:   'P. Shvets, V. Voevodin, S. Zhumatiy'
-  talk: 'Statistics of Software Package Usage in Supercomputer Complexes'
+  by:   'E. Akimova, A. Chernoskutov, R. Kosivets and A. Volkanin'
+  talk: 'Traffic Forecasting Using PaddlePaddle'
 
 - from: '11:00'
   till: '11:20'
@@ -32,8 +32,8 @@ program:
 
 - from: '11:40'
   till: '12:00'
-  by:   'E. Akimova, A. Chernoskutov, R. Kosivets and A. Volkanin'
-  talk: 'Traffic Forecasting Using PaddlePaddle'
+  by:   'P. Shvets, V. Voevodin, S. Zhumatiy'
+  talk: 'Statistics of Software Package Usage in Supercomputer Complexes'
 
 - from: '12:00'
   till: '12:20'
