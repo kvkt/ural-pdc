@@ -13,8 +13,8 @@ program:
 
 - from: '10:20'
   till: '10:40'
-  by:   'A. Agarkov, A. Semenov'
-  talk: 'Performance Evaluation of Large Table Association Problem Implemented in Apache Spark on Cluster with Angara Interconnect'
+  by:   'A. Mazeev, A. Semenov, D. Doropheev, T. Yusubaliev'
+  talk: 'Performance Evaluation of Supervised Graph Anomaly Detection Problem Implemented Using GraphX and MLlib in Apache Spark'
 
 - from: '10:40'
   till: '11:00'
@@ -47,8 +47,8 @@ program:
 
 - from: '12:40'
   till: '13:00'
-  by:   'I. Afanasyev'
-  talk: 'An Efficient Implementation of Transitive Closure Problem on Intel KNL Architecture'
+  by:   'P. Drobintsev, V. Kotlyarov, A. Levchenko, A. Maslakov'
+  talk: 'An Effective Implementation Approach for Adapting of HPC Applications'
 
 - from: '13:00'
   till: '14:00'
@@ -56,13 +56,13 @@ program:
 
 - from: '14:00'
   till: '14:20'
-  by:   'P. Drobintsev, V. Kotlyarov, A. Levchenko, A. Maslakov'
-  talk: 'An Effective Implementation Approach for Adapting of HPC Applications'
+  by:   'I. Afanasyev'
+  talk: 'An Efficient Implementation of Transitive Closure Problem on Intel KNL Architecture'
 
 - from: '14:20'
   till: '14:40'
-  by:   'A. Mazeev, A. Semenov, D. Doropheev, T. Yusubaliev'
-  talk: 'Performance Evaluation of Supervised Graph Anomaly Detection Problem Implemented Using GraphX and MLlib in Apache Spark'
+  by:   'A. Agarkov, A. Semenov'
+  talk: 'Performance Evaluation of Large Table Association Problem Implemented in Apache Spark on Cluster with Angara Interconnect'
 
 - from: '14:40'
   till: '15:00'
