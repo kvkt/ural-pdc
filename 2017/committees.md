@@ -33,6 +33,11 @@ description: Organizing and program committees of Ural-PDC 2017.
 * Vlada Zhernova, South Ural State University, Chelyabinsk, Russia.
 * Vladimir Zverev, Ural Federal University, Yekaterinburg, Russia.
 
+## Invited Reviewers
+
+* Alexander Frolov, JSC Nicevt, Moscow, Russia.
+* Timur Ismagilov, Novosibirsk State University, Novosibirsk, Russia.
+
 ## Organizing Committee
 
 * Andrey Sozykin, Krasovskii Institute of Mathematics and Mechanics, Yekaterinburg, Russia. *Chair of the Organizing Committee.*
