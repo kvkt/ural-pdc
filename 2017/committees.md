@@ -20,7 +20,7 @@ description: Organizing and program committees of Ural-PDC 2017.
 * Leonid Popov, Krasovskii Institute of Mathematics and Mechanics, Yekaterinburg, Russia.
 * Sergei Pravdin, Krasovskii Institute of Mathematics and Mechanics, Yekaterinburg, Russia.
 * Yaroslav Salii, Ural Federal University, Yekaterinburg, Russia.
-* Alexander Semenov, JSC Nicevt, Moscow, Russia.
+* Alexander Semenov, JSC NICEVT, Moscow, Russia.
 * Anastasia Shamakina, High Performance Computing Center Stuttgart, Germany.
 * Sergei Sharf, Krasovskii Institute of Mathematics and Mechanics, Yekaterinburg, Russia.
 * Vladislav Shchapov, Institute of Continuous Media Mechanics, Perm, Russia.
@@ -35,7 +35,7 @@ description: Organizing and program committees of Ural-PDC 2017.
 
 ## Invited Reviewers
 
-* Alexander Frolov, JSC Nicevt, Moscow, Russia.
+* Alexander Frolov, JSC NICEVT, Moscow, Russia.
 * Timur Ismagilov, Novosibirsk State University, Novosibirsk, Russia.
 
 ## Organizing Committee
