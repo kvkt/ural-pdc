@@ -10,7 +10,7 @@ exclude:
 - Gemfile*
 - README.md
 - LICENSE.txt
-gems:
+plugins:
 - jekyll-sitemap
 whitelist:
 - jekyll-sitemap
