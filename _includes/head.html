@@ -11,14 +11,8 @@
   <meta property="og:type" content="website">
   <meta property="og:locale" content="en_US">
 
-  {% if page.url == '/' %}
-  <meta http-equiv="refresh" content="0; url={{ site.recent | prepend: '/' | prepend: site.baseurl | append: '/' }}">
-  <meta property="og:url" content="{{ site.recent | prepend: '/' | prepend: site.baseurl | prepend: site.url | append: '/' }}">
-  <link rel="canonical" href="{{ site.recent | prepend: '/' | prepend: site.baseurl | prepend: site.url | append: '/' }}">
-  {% else %}
   <meta property="og:url" content="{{ page.url | replace: 'index.html', '' | prepend: site.baseurl | prepend: site.url }}">
   <link rel="canonical" href="{{ page.url | replace: 'index.html', '' | prepend: site.baseurl | prepend: site.url }}">
-  {% endif %}
 
   <meta name="yandex-verification" content="41573f46dc896517" />
 

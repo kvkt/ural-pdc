@@ -12,9 +12,10 @@ exclude:
 - LICENSE.txt
 plugins:
 - jekyll-sitemap
+- jekyll-redirect-from
 whitelist:
 - jekyll-sitemap
+- jekyll-redirect-from
 safe: true
 timezone: Asia/Yekaterinburg
 encoding: UTF-8
-recent: '2017'
