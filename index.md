@@ -16,7 +16,7 @@ We invite submission of papers that present original previously unpublished rese
 * Big Data Processing
 * Parallel Computing Education
 * Applications of Parallel and Distributed Computing
-* Data Science
+* Compute-Intensive Data Science
 
 ## Important Dates
 
