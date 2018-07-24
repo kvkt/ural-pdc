@@ -1,8 +1,8 @@
 title: Ural-PDC
 description: Ural Workshop on Parallel, Distributed, and Cloud Computing for Young Scientists.
-email: avs@imm.uran.ru
+email: org@ural-pdc.org
 baseurl: ''
-url: http://ural-pdc.org
+url: https://ural-pdc.org
 markdown: kramdown
 sass:
   style: compressed
