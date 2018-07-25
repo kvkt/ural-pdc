@@ -31,7 +31,7 @@ Proceedings of the previous Ural-PDC workshops are available at <http://ceur-ws.
 
 ## Paper Submission
 
-Authors are invited to submit papers in the PDF format written in **LaTeX** using the [Springer LNCS style](https://www.springer.com/computer/lncs?SGWID=0-164-6-793341-0) ([LaTeX template download](ftp://ftp.springer.de/pub/tex/latex/llncs/latex2e/llncs2e.zip)). The paper must be **5&ndash;10 pages** including figures, tables, and references. We do not accept submissions in Microsoft Word.
+Authors are invited to submit papers in the PDF format written in **LaTeX** using the [Springer LNCS style](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines) ([LaTeX template download](ftp://ftp.springernature.com/cs-proceeding/llncs/llncs2e.zip)). The paper must be **5&ndash;10 pages** including figures, tables, and references. The papers must be written in **English**. We do not accept submissions in Microsoft Word.
 
 * <https://easychair.org/conferences/?conf=uralpdc2018>
 
@@ -39,6 +39,6 @@ Each paper will be reviewed by at least three program committee members. We foll
 
 ## Language
 
-Official and working languages of Ural-PDC 2018 workshop are Russian and English.
+Working languages of the Ural-PDC 2018 workshop are Russian and English.
 
 Workshop participation and paper publication are **free of charge**.
