@@ -42,3 +42,8 @@ Each paper will be reviewed by at least three program committee members. We foll
 Working languages of the Ural-PDC 2018 workshop are Russian and English.
 
 Workshop participation and paper publication are **free of charge**.
+
+## Sponsors
+
+* [SKB Kontur](https://kontur.ru/)
+* [Open Technologies](http://www.ot.ru/)
