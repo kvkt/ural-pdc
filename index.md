@@ -37,13 +37,13 @@ Authors are invited to submit papers in the PDF format written in **LaTeX** usin
 
 Each paper will be reviewed by at least three program committee members. We follow the post-proceedings publication model. Therefore, we will publish only those papers that are presented at the workshop. Final versions of accepted papers should include LaTeX sources.
 
+## Sponsors
+
+* [SKB Kontur](https://kontur.ru/)
+* [Open Technologies](https://www.ot.ru/)
+
 ## Language
 
 Working languages of the Ural-PDC 2018 workshop are Russian and English.
 
 Workshop participation and paper publication are **free of charge**.
-
-## Sponsors
-
-* [SKB Kontur](https://kontur.ru/)
-* [Open Technologies](http://www.ot.ru/)
