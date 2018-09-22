@@ -35,7 +35,7 @@ Authors are invited to submit papers in the PDF format written in **LaTeX** usin
 
 * <https://easychair.org/conferences/?conf=uralpdc2018>
 
-Each paper will be reviewed by at least three program committee members. We follow the post-proceedings publication model. Therefore, we will publish only those papers that are presented at the workshop. Final versions of accepted papers should include LaTeX sources.
+Each paper will be reviewed by at least two program committee members. We follow the post-proceedings publication model. Therefore, we will publish only those papers that are presented at the workshop. Final versions of accepted papers should include LaTeX sources.
 
 ## Sponsors
 
