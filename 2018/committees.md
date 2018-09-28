@@ -11,6 +11,7 @@ description: Organizing and program committees of Ural-PDC 2018.
 * Timofey Epanchintsev, Krasovskii Institute of Mathematics and Mechanics, Yekaterinburg, Russia
 * Svyatoslav Khamzin, Ural Federal University, Yekaterinburg, Russia
 * Alina Latipova, South Ural State University, Chelyabinsk, Russia
+* Dmitry Nikitenko, Lomonosov Moscow State University, Moscow, Russia
 * Sergei Pravdin, Krasovskii Institute of Mathematics and Mechanics, Yekaterinburg, Russia
 * Yaroslav Salii, Ural Federal University, Yekaterinburg, Russia
 * Alexander Semenov, JSC NICEVT, Moscow, Russia
