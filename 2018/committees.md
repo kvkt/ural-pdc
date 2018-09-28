@@ -7,7 +7,7 @@ description: Organizing and program committees of Ural-PDC 2018.
 ## Program Committee
 
 * Mikhail Chernoskutov, Krasovskii Institute of Mathematics and Mechanics, Yekaterinburg, Russia
-* Pavel Drobintsev, Peter the Great St.Petersburg Polytechnic University, Saint Petersburg, Russia
+* Pavel Drobintsev, Peter the Great St. Petersburg Polytechnic University, Saint Petersburg, Russia
 * Timofey Epanchintsev, Krasovskii Institute of Mathematics and Mechanics, Yekaterinburg, Russia
 * Svyatoslav Khamzin, Ural Federal University, Yekaterinburg, Russia
 * Alina Latipova, South Ural State University, Chelyabinsk, Russia
@@ -22,5 +22,5 @@ description: Organizing and program committees of Ural-PDC 2018.
 
 ## Organizing Committee
 
-* Mikhail Chernoskutov, Krasovskii Institute of Mathematics and Mechanics, Yekaterinburg, Russia: *Co-Chair*
-* Dmitry Ustalov, University of Mannheim, Germany: *Co-Chair*
+* Mikhail Chernoskutov, Krasovskii Institute of Mathematics and Mechanics, Yekaterinburg, Russia, *Co-Chair*
+* Dmitry Ustalov, University of Mannheim, Germany, *Co-Chair*
