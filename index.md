@@ -31,7 +31,7 @@ We plan to publish accepted papers in [CEUR Workshop Proceedings](http://ceur-ws
 
 ## Paper Submission
 
-Authors are invited to submit papers in the PDF format written in **LaTeX** using the [Springer LNCS style](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines) ([LaTeX template download](ftp://ftp.springernature.com/cs-proceeding/llncs/llncs2e.zip)). A paper must be **5&ndash;10 pages** including figures, tables, and references. The papers must be written in **English**. We do not accept submissions in Microsoft Word.
+Authors are invited to submit papers in the PDF format written in **LaTeX** using the [Springer LNCS style](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines) ([LaTeX template download](ftp://ftp.springernature.com/cs-proceeding/llncs/llncs2e.zip)). A paper must be **8&ndash;15 pages** including figures, tables, and references. The papers must be written in **English**. We do not accept submissions in Microsoft Word.
 
 * <https://easychair.org/conferences/?conf=uralpdc2018>
 
