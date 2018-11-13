@@ -18,7 +18,7 @@ program:
 
 - from: '11:00'
   till: '11:45'
-  by:   'A. Popov, D. Nikitenko and A. Antonov'
+  by:   'A. Popov, D. Nikitenko, A. Antonov and V. Voevodin'
   talk: 'Formal Model of Problems, Methods, Algorithms and Implementations in the Advancing AlgoWiki Open Encyclopedia'  
 
 - from: '11:45'
@@ -42,37 +42,37 @@ program:
 
 - from: '13:20'
   till: '13:40'
-  by:   'P. Shvets, V. Voevodin and S. Zhumatiy'
-  talk: 'Primary Automatic Analysis of the Entire Flow of Supercomputer Applications'
+  by:   'Yu. Belkina and D. Nikitenko'
+  talk: 'Computing Cost and Accounting Challenges for Octoshell Management System'
 
 - from: '13:40'
   till: '14:00'
-  by:   'N. Voinov, I. Selin, P. Drobintsev and V. Kotlyarov'
-  talk: 'An Approach to Managing Resources of Hybrid Supercomputer for Photogrammetric Tasks'
-
+  by:   'P. Shvets, V. Voevodin and S. Zhumatiy'
+  talk: 'Primary Automatic Analysis of the Entire Flow of Supercomputer Applications'  
+  
 - from: '14:00'
   till: '15:30'
   talk: 'Lunch'
 
 - from: '15:30'
   till: '15:50'
-  by:   'V. Shardakov, D. Parfenov, I. Bolodurina, I. Parfenov and V. Zaporozhko'
-  talk: 'Development of Technique for Generating Adaptive Visualization of Three-Dimensional Objects in a Cloud Educational Environment'
+  by:   'N. Voinov, I. Selin, P. Drobintsev and V. Kotlyarov'
+  talk: 'An Approach to Managing Resources of Hybrid Supercomputer for Photogrammetric Tasks'
 
 - from: '15:50'
   till: '16:10'
-  by:   'A. Levchenko'
-  talk: 'Exploring Trade-offs of Compiler Optimizations to Enable Performance Portability for Multi-level Memory Hierarchies'
+  by:   'V. Shardakov, D. Parfenov, I. Bolodurina, I. Parfenov and V. Zaporozhko'
+  talk: 'Development of Technique for Generating Adaptive Visualization of Three-Dimensional Objects in a Cloud Educational Environment'
 
 - from: '16:10'
   till: '16:30'
-  by:   'D. Parfenov, I. Bolodurina and V. Shardakov'
-  talk: 'Development and Research of an Adaptive Traffic Routing Algorithm Based on a Neural Network Approach for a Cloud System Oriented on Processing Big Data'
+  by:   'A. Levchenko'
+  talk: 'Exploring Trade-offs of Compiler Optimizations to Enable Performance Portability for Multi-level Memory Hierarchies'
 
 - from: '16:30'
   till: '16:50'
-  by:   'Yu. Belkina and D. Nikitenko'
-  talk: 'Computing Cost and Accounting Challenges for Octoshell Management System'
+  by:   'D. Parfenov, I. Bolodurina and V. Shardakov'
+  talk: 'Development and Research of an Adaptive Traffic Routing Algorithm Based on a Neural Network Approach for a Cloud System Oriented on Processing Big Data'
 
 - from: '16:50'
   till: '17:00'
