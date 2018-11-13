@@ -13,18 +13,18 @@ program:
 
 - from: '10:15'
   till: '11:00'
-  by:   'Sergei Leonenkov and Sergey Zhumatiy'
-  talk: 'Comparison of approaches to the analysis of supercomputers usage efficiency by the example of Lomonosov and Lomonosov-2 supercomputers'
+  by:   'S. Leonenkov and S. Zhumatiy'
+  talk: 'Comparison of Approaches to the Analysis of Supercomputers Usage Efficiency by the Example of Lomonosov and Lomonosov-2 Supercomputers'
 
 - from: '11:00'
   till: '11:45'
-  by:   'Andrey Popov, Dmitry Nikitenko and Alexander Antonov'
+  by:   'A. Popov, D. Nikitenko and A. Antonov'
   talk: 'Formal Model of Problems, Methods, Algorithms and Implementations in the Advancing AlgoWiki Open Encyclopedia'  
 
 - from: '11:45'
   till: '12:30'
-  by:   'Elena Akimova, Vladimir Misilov and Murat Sultanov'
-  talk: 'Solving the structural inverse gravimetry problem in the case of multilayered medium using GPU'
+  by:   'E. Akimova, V. Misilov and M. Sultanov'
+  talk: 'Solving the Structural Inverse Gravimetry Problem in the Case of Multilayered Medium Using GPU'
 
 - from: '12:30'
   till: '12:40'
@@ -32,23 +32,23 @@ program:
 
 - from: '12:40'
   till: '13:00'
-  by:   'Ilya Afanasyev'
-  talk: 'The comparative performance analysis of data-intensive applications for IBM Minsky and Newell systems'
+  by:   'I. Afanasyev'
+  talk: 'The Comparative Performance Analysis of Data-Intensive Applications for IBM Minsky and Newell Systems'
 
 - from: '13:00'
   till: '13:20'
-  by:   'Ilyas Kadyrov, Sergey Kopysov and Alexander Novikov'
+  by:   'I. Kadyrov, S. Kopysov and A. Novikov'
   talk: 'Parallel Partitionning Without Branching of Inner Boundaries for Arbitrary Domain'
 
 - from: '13:20'
   till: '13:40'
-  by:   'Pavel Shvets, Vadim Voevodin and Sergey Zhumatiy'
-  talk: 'Primary automatic analysis of the entire flow of supercomputer applications'
+  by:   'P. Shvets, V. Voevodin and S. Zhumatiy'
+  talk: 'Primary Automatic Analysis of the Entire Flow of Supercomputer Applications'
 
 - from: '13:40'
   till: '14:00'
-  by:   'Nikita Voinov, Ivan Selin, Pavel Drobintsev and Vsevolod Kotlyarov'
-  talk: 'An approach to managing resources of hybrid supercomputer for photogrammetric tasks'
+  by:   'N. Voinov, I. Selin, P. Drobintsev and V. Kotlyarov'
+  talk: 'An Approach to Managing Resources of Hybrid Supercomputer for Photogrammetric Tasks'
 
 - from: '14:00'
   till: '15:30'
@@ -56,22 +56,22 @@ program:
 
 - from: '15:30'
   till: '15:50'
-  by:   'Vladimir Shardakov, Denis Parfenov, Irina Bolodurina, Igor Parfenov and Veronika Zaporozhko'
-  talk: 'Development of technique for generating adaptive visualization of three-dimensional objects in a cloud educational environment'
+  by:   'V. Shardakov, D. Parfenov, I. Bolodurina, I. Parfenov and V. Zaporozhko'
+  talk: 'Development of Technique for Generating Adaptive Visualization of Three-Dimensional Objects in a Cloud Educational Environment'
 
 - from: '15:50'
   till: '16:10'
-  by:   'Aleksei Levchenko'
+  by:   'A. Levchenko'
   talk: 'Exploring Trade-offs of Compiler Optimizations to Enable Performance Portability for Multi-level Memory Hierarchies'
 
 - from: '16:10'
   till: '16:30'
-  by:   'Denis Parfenov, Irina Bolodurina and Vladimir Shardakov'
-  talk: 'Development and research of an adaptive traffic routing algorithm based on a neural network approach for a cloud system oriented on processing Big Data'
+  by:   'D. Parfenov, I. Bolodurina and V. Shardakov'
+  talk: 'Development and Research of an Adaptive Traffic Routing Algorithm Based on a Neural Network Approach for a Cloud System Oriented on Processing Big Data'
 
 - from: '16:30'
   till: '16:50'
-  by:   'Yulia Belkina and Dmitry Nikitenko'
+  by:   'Yu. Belkina and D. Nikitenko'
   talk: 'Computing Cost and Accounting Challenges for Octoshell Management System'
 
 - from: '16:50'
@@ -80,23 +80,23 @@ program:
 
 - from: '17:00'
   till: '17:20'
-  by:   'Evgeniy Kuklin and Sergei Pravdin'
-  talk: 'A web-based system for launching large experiment series on supercomputers'
+  by:   'E. Kuklin and S. Pravdin'
+  talk: 'A Web-based System for Launching Large Experiment Series on Supercomputers'
 
 - from: '17:20'
   till: '17:40'
-  by:   'Nikita Nedozhogin, Sergey Kopysov and Alexander Novikov'
+  by:   'N. Nedozhogin, S. Kopysov and A. Novikov'
   talk: 'Parallel Substructuring Method With Memory Cost Limits'
 
 - from: '17:40'
   till: '18:00'
-  by:   'Kseniia Nikolskaia, Nadezhda Ezhova, Anton Sinkov and Maksim Medvedev'
-  talk: 'Skin recognition technique based on HSV color model and SLIC segmentation method'
+  by:   'K. Nikolskaia, N. Ezhova, A. Sinkov and M. Medvedev'
+  talk: 'Skin Recognition Technique Based on HSV Color Model and SLIC Segmentation Method'
 
 - from: '18:00'
   till: '18:20'
-  by:   'Vsevolod Kotlyarov, Igor Chernorutsky, Pavel Drobintsev, Alexey Tolstoles, Irina Khrustaleva and Lina Kotlyarova'
-  talk: 'Net-centric Internet of Things for industrial machinery workshop'
+  by:   'V. Kotlyarov, I. Chernorutsky, P. Drobintsev, A. Tolstoles, I. Khrustaleva and L. Kotlyarova'
+  talk: 'Net-centric Internet of Things for Industrial Machinery Workshop'
 
 - from: '18:20'
   till: '18:40'
