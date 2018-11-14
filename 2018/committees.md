@@ -30,7 +30,7 @@ description: Organizing and program committees of Ural-PDC 2018.
 * Alexander Agarkov, JSC NICEVT, Moscow, Russia
 * Ameer B. A. Alaasam, South Ural State University, Chelyabinsk, Russia
 * Timur Ismagilov, Novosibirsk State University, Novosibirsk, Russia
-* Alexei Podkorytov, Russia
+* Alexei Podkorytov, South Ural State University, Chelyabinsk, Russia
 
 ## Organizing Committee
 
