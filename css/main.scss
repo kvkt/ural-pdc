@@ -66,4 +66,8 @@ article li {
     font-size: 90%;
 }
 
+@media print {
+    #menu, #likely { display: none; }
+}
+
 @import "syntax-highlighting";
