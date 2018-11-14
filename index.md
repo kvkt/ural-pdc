@@ -6,7 +6,7 @@ description: 4th Ural Workshop on Parallel, Distributed, and Cloud Computing for
 
 [Krasovskii Institute of Mathematics and Mechanics](http://www.imm.uran.ru/eng) and [Ural Federal University](https://urfu.ru/en/) are jointly organizing the 4th Ural Workshop on Parallel, Distributed, and Cloud Computing for Young Scientists (Ural-PDC 2018). The aim of the workshop is to build the community of young researchers who work on modern problems in parallel, distributed, cloud computing and to provide an academic forum that fosters them to share their ideas and results.
 
-The workshop will be held on November 15, 2018 at the Conference hall of the Krasovskii Institute of Mathematics and Mechanics (third floor, 16 Sofia Kovalevskaya Str., Yekaterinburg, Russia).
+The Ural-PDC 2018 workshop is held on November 15, 2018 at the Conference hall of the Krasovskii Institute of Mathematics and Mechanics (3<sup>rd</sup> floor, [16 Sofia Kovalevskaya Str.](https://2gis.ru/ekaterinburg/firm/1267165676521629), Yekaterinburg, Russia).
 
 ## Call for Papers
 
