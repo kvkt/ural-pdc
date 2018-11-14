@@ -43,6 +43,7 @@ Each paper will be reviewed by at least two program committee members. We follow
 
 * [SKB Kontur](https://kontur.ru/)
 * [Open Technologies](https://www.ot.ru/)
+* [Crona CS](http://www.crona.ru/)
 
 ## Language
 
