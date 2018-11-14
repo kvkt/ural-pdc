@@ -96,7 +96,7 @@ program:
 - from: '18:00'
   till: '18:20'
   by:   'V. Kotlyarov, I. Chernorutsky, P. Drobintsev, A. Tolstoles, I. Khrustaleva and L. Kotlyarova'
-  talk: 'Net-centric Internet of Things for Industrial Machinery Workshop'
+  talk: 'Net-Centric Internet of Things for Industrial Machinery Workshop'
 
 - from: '18:20'
   till: '18:40'
