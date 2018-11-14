@@ -103,4 +103,4 @@ program:
   talk: 'Workshop Closing'
 ---
 
-The Ural-PDC 2018 workshop is held on November 15, 2018 at the Conference hall of the Krasovskii Institute of Mathematics and Mechanics (third floor, 16 Sofia Kovalevskaya Str., Yekaterinburg, Russia).
+The Ural-PDC 2018 workshop is held on November 15, 2018 at the Conference hall of the Krasovskii Institute of Mathematics and Mechanics (3<sup>rd</sup> floor, [16 Sofia Kovalevskaya Str.](https://2gis.ru/ekaterinburg/firm/1267165676521629), Yekaterinburg, Russia).
