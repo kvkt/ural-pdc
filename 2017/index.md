@@ -23,10 +23,10 @@ We invite submission of papers that present original previously unpublished rese
 
 ## Important Dates
 
-* **Paper submission deadline:** September 1, 2017.
-* **Notification of acceptance:** October 1, 2017.
-* **Camera-ready version deadline:** October 15, 2017.
-* **Workshop date:** October 19, 2017.
+* **Paper submission deadline:** September 1, 2017
+* **Notification of acceptance:** October 1, 2017
+* **Camera-ready version deadline:** October 15, 2017
+* **Workshop date:** October 19, 2017
 
 ## Proceedings
 

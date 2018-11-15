@@ -23,10 +23,10 @@ We invite submission of papers that present original previously unpublished rese
 
 ## Important Dates
 
-* **Paper submission deadline:** <s>September 30, 2015</s> October 18, 2015.
-* **Notification of acceptance:** <s>October 15, 2015</s> November 2, 2015.
-* **Camera-ready version deadline:** <s>October 31, 2015</s> November 10, 2015.
-* **Workshop date:** November 17, 2015.
+* **Paper submission deadline:** October 18, 2015
+* **Notification of acceptance:** November 2, 2015
+* **Camera-ready version deadline:** November 10, 2015
+* **Workshop date:** November 17, 2015
 
 ## Proceedings
 
@@ -36,7 +36,7 @@ Proceedings of the 1st Ural-PDC workshop: <http://ceur-ws.org/Vol-1513/>.
 
 Authors are invited to submit papers in the PDF format written in **LaTeX** using the [Springer LNCS style](https://www.springer.com/computer/lncs?SGWID=0-164-6-793341-0) ([LaTeX template download](ftp://ftp.springer.de/pub/tex/latex/llncs/latex2e/llncs2e.zip)). The paper must be **5&ndash;10 pages** including figures, tables, and references. We do not accept submissions in Microsoft Word.
 
-* Paper submission is closed.
+* Paper submission is closed
 
 Each paper will be reviewed by at least three program committee members. We follow the post-proceedings publication model. Therefore, we will publish only those papers that are presented at the workshop. Final versions of accepted papers should include LaTeX sources.
 
