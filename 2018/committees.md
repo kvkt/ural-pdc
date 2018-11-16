@@ -36,3 +36,9 @@ description: Organizing and program committees of Ural-PDC 2018.
 
 * Mikhail Chernoskutov, Krasovskii Institute of Mathematics and Mechanics, Yekaterinburg, Russia, *Co-Chair*
 * Dmitry Ustalov, University of Mannheim, Germany, *Co-Chair*
+* Alexander Bersenev, Krasovskii Institute of Mathematics and Mechanics, Yekaterinburg, Russia
+* Alexey Grigoriev, Krasovskii Institute of Mathematics and Mechanics, Yekaterinburg, Russia
+* Timofey Epanchintsev, Krasovskii Institute of Mathematics and Mechanics, Yekaterinburg, Russia
+* Anna Kotegova, Ural Federal University, Yekaterinburg, Russia
+* Evgheniy Kuklin, Krasovskii Institute of Mathematics and Mechanics, Yekaterinburg, Russia
+* Andrey Sozykin, Krasovskii Institute of Mathematics and Mechanics, Yekaterinburg, Russia
