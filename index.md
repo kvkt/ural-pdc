@@ -41,9 +41,11 @@ Each paper will be reviewed by at least two program committee members. We follow
 
 ## Sponsors
 
-* [SKB Kontur](https://kontur.ru/)
-* [Open Technologies](https://www.ot.ru/)
-* [Crona CS](http://www.crona.ru/)
+<div class="pure-g align-center">
+  <div class="pure-u-1 pure-u-md-1-3"><a href="https://kontur.ru/"><img src="https://kontur.ru/theme/ver-451535514/common/images/logo_social.png" alt="SKB Kontur" /></a></div>
+  <div class="pure-u-1 pure-u-md-1-3"><a href="https://www.ot.ru/"><img src="http://www.ot.ru/bitrix/templates/.default/markup/i/ot_logo.png" alt="Open Technologies" /></a></div>
+  <div class="pure-u-1 pure-u-md-1-3"><a href="http://www.crona.ru/"><img src="http://www.crona.ru/getimg//files/block/6_value.png" alt="Crona CS" /></a></div>
+</div>
 
 ## Language
 
