@@ -22,7 +22,7 @@ description: Organizing and program committees of Ural-PDC 2018.
 * Andrey Sozykin, Krasovskii Institute of Mathematics and Mechanics, Yekaterinburg, Russia
 * Konstantin Ushenin, Ural Federal University, Yekaterinburg, Russia
 * Dmitry Ustalov, University of Mannheim, Germany
-* Vladimir V. Voevodin, Research Computing Center, Lomonosov Moscow State University, Moscow, Russia
+* Vladimir V. Voevodin, Research Computing Center of Lomonosov Moscow State University, Moscow, Russia
 * Vladimir Zverev, Ural Federal University, Yekaterinburg, Russia
 
 ## Invited Reviewers
