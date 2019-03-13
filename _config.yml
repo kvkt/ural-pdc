@@ -10,6 +10,7 @@ exclude:
 - Gemfile*
 - README.md
 - LICENSE.txt
+- vendor
 plugins:
 - jekyll-sitemap
 - jekyll-redirect-from
