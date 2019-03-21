@@ -9,6 +9,7 @@ description: Organizing and program committees of Ural-PDC 2019.
 * Andrey Sozykin, Ural Federal University, Russia
 * Dmitry Ustalov, University of Mannheim, Germany
 * Mikhail Chernoskutov, Krasovskii Institute of Mathematics and Mechanics, Yekaterinburg, Russia
+* Anastasia Shamakina, High Performance Center Stuttgart, Germany
 
 ## Organizing Committee
 
