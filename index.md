@@ -4,7 +4,7 @@ title: Ural-PDC 2019
 description: 5th Ural Workshop on Parallel, Distributed, and Cloud Computing for Young Scientists (Ural-PDC 2019).
 ---
 
-[Krasovskii Institute of Mathematics and Mechanics](http://www.imm.uran.ru/eng) and [Ural Federal University](https://urfu.ru/en/) are jointly organizing the 5th Ural Workshop on Parallel, Distributed, and Cloud Computing for Young Scientists (Ural-PDC 2019). The aim of the workshop is to build the community of young researchers who work on modern problems in parallel, distributed, cloud computing and to provide an academic forum that fosters them to share their ideas and results.
+[Ural Federal University](https://urfu.ru/en/) and [Krasovskii Institute of Mathematics and Mechanics](http://www.imm.uran.ru/eng) are jointly organizing the 5th Ural Workshop on Parallel, Distributed, and Cloud Computing for Young Scientists (Ural-PDC 2019). The aim of the workshop is to build the community of young researchers who work on modern problems in parallel, distributed, cloud computing and to provide an academic forum that fosters them to share their ideas and results.
 
 ## Call for Papers
 
