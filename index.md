@@ -37,6 +37,6 @@ Each paper will be reviewed by at least three program committee members. We foll
 
 ## Language
 
-Official and working languages of Ural-PDC 2019 workshop are English and Russian.
+Official and working language of Ural-PDC 2019 workshop is English.
 
 Workshop participation and paper publication are **free of charge**.
