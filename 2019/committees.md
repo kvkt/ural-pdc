@@ -11,13 +11,14 @@ description: Organizing and program committees of Ural-PDC 2019.
 * Mikhail Chernoskutov, Krasovskii Institute of Mathematics and Mechanics, Yekaterinburg, Russia
 * Anastasia Shamakina, High Performance Center Stuttgart, Germany
 * Pavel Drobintsev, Peter the Great St. Petersburg Polytechnic University, Saint Petersburg, Russia
+* Anton Belyi, ITMO University, Saint Petersburg, Russia
 * Gleb Radchenko, South Ural State University, Chelyabinsk, Russia
 * Alexey Grigoriev, Krasovskii Institute of Mathematics and Mechanics, Yekaterinburg, Russia
 * Timofey Epanchintsev, Krasovskii Institute of Mathematics and Mechanics, Yekaterinburg, Russia
 * Evgeniy Kuklin, Krasovskii Institute of Mathematics and Mechanics, Yekaterinburg, Russia
 * Iliya Obabkov, Ural Federal University, Yekaterinburg, Russia
 * Svyatoslav Solodushkin, Ural Federal University, Yekaterinburg, Russia
-* Konstantin Ushenin, Ural Federal University, Yekaterinburg, Russia
+* Konstantin Ushenin, Institute of Immunology and Physiology, Yekaterinburg, Russia
 * Anton Koshelev, Tochka Bank, Yekaterinburg, Russia
 * Mikhail Khrushchev, SKB Kontur, Yekaterinburg, Russia
 
