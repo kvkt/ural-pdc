@@ -33,7 +33,7 @@ Proceedings of the previous Ural-PDC workshops are available at <http://ceur-ws.
 
 * Paper submission opens soon.
 
-Each paper will be reviewed by at least three program committee members. We follow the post-proceedings publication model. Therefore, we will publish only those papers that are presented at the workshop. Final versions of accepted papers should include LaTeX sources.
+Each paper will be reviewed by at least two program committee members. We follow the post-proceedings publication model. Therefore, we will publish only those papers that are presented at the workshop. Final versions of accepted papers should include LaTeX sources.
 
 ## Language
 
