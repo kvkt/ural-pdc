@@ -6,6 +6,8 @@ description: 5th Ural Workshop on Parallel, Distributed, and Cloud Computing for
 
 [Ural Federal University](https://urfu.ru/en/) and [Krasovskii Institute of Mathematics and Mechanics](http://www.imm.uran.ru/eng) are jointly organizing the 5th Ural Workshop on Parallel, Distributed, and Cloud Computing for Young Scientists (Ural-PDC 2019). The aim of the workshop is to build the community of young researchers who work on modern problems in parallel, distributed, cloud computing and to provide an academic forum that fosters them to share their ideas and results.
 
+UralPDC 2019 will be held in conjuction with [2019 International Multi-Conference on Engineering, Computer and Information Sciences (SIBIRCON)](https://sibircon.ieeesiberia.org/).
+
 ## Call for Papers
 
 We invite submission of papers that present original previously unpublished research in all areas of parallel, distributed, and cloud computing. These papers will be presented during the workshop as oral presentations. Topics of interest include, but are not limited to, the following areas:
@@ -20,23 +22,32 @@ We invite submission of papers that present original previously unpublished rese
 
 ## Important Dates
 
-* **Paper submission deadline:** August 1, 2019
-* **Notification of acceptance:** October 1, 2019
-* **Camera-ready version deadline:** November 1, 2019
-* **Workshop date:** November 15, 2019
+* **Paper submission deadline:** September 15, 2019
+* **Notification of acceptance:** October 7, 2019
+* **Camera-ready version deadline:** October 14, 2019
+* **Workshop date:** October 25, 2019
 
 ## Proceedings
 
-Proceedings of the previous Ural-PDC workshops are available at <http://ceur-ws.org/Vol-1513/>, <http://ceur-ws.org/Vol-1729/>, <http://ceur-ws.org/Vol-1990/>, and <http://ceur-ws.org/Vol-2281/>; these proceedings are indexed by Scopus. Proceedings of Ural-PDC 2019 will also be published in a Scopus-indexed volume.
+All accepted full papers (Up to 6 pages) will be submitted for inclusion in the IEEE Xplore Digital Library as part of SIBIRCON 2019 Proceedings. IEEE has agreements with almost all of the top publishers, including Thomson Reuters, Elsevier, Google Scholar, ACM, IET etc. 
+
+Proceedings of the previous Ural-PDC workshops are available at <http://ceur-ws.org/Vol-1513/>, <http://ceur-ws.org/Vol-1729/>, <http://ceur-ws.org/Vol-1990/>, and <http://ceur-ws.org/Vol-2281/>; these proceedings are indexed by Scopus.
+
+## Workshop Fees
+* Regular: 4000 RUB (includes submission for publication in the Workshop Proceedings, conference documentation, SIBIRCON welcome party and coffee breaks). 30% discount for an additional paper. Participant can not be co-author of more than three papers.
+* IEEE Member: 3000 RUB (includes submission for publication in the Workshop Proceedings, conference documentation, SIBIRCON welcome party and coffee breaks). 30% discount for an additional paper. Participant can not be co-author of more than three papers.
+* Postgraduate Student (first author & speaker): 3000 RUB (includes submission for publication in the Workshop Proceedings, conference documentation, SIBIRCON welcome party and coffee breaks). 30% discount for an additional paper. Participant can not be co-author of more than three articles.
+* A charge of 1000 RUB will be applied for each extra page.
 
 ## Paper Submission
 
 * Paper submission opens soon.
 
-Each paper will be reviewed by at least two program committee members. We follow the post-proceedings publication model. Therefore, we will publish only those papers that are presented at the workshop. Final versions of accepted papers should include LaTeX sources.
+The submissions will follow the [SIBIRCON Author Guidelines](https://sibircon.ieeesiberia.org/rules.php).
+
+Each paper will be reviewed by at least three program committee members. We follow the post-proceedings publication model. Therefore, we will publish only those papers that are presented at the workshop. Final versions of accepted papers should include LaTeX sources.
 
 ## Language
 
 Official and working language of Ural-PDC 2019 workshop is English.
 
-Workshop participation and paper publication are **free of charge**.
