@@ -22,10 +22,15 @@ We invite submission of papers that present original previously unpublished rese
 
 ## Important Dates
 
+* **Registration deadline:** August 31, 2019
 * **Paper submission deadline:** September 15, 2019
 * **Notification of acceptance:** October 7, 2019
 * **Camera-ready version deadline:** October 14, 2019
 * **Workshop date:** October 25, 2019
+
+## Registration
+
+Please register on the [Sibircon website](https://sibircon.ieeesiberia.org/register.php), select “Mathematics, Computational Technologies, Software Engineering” section and Ural-PDC 2019 workshop inside the section. 
 
 ## Proceedings
 
@@ -33,17 +38,11 @@ All accepted full papers (Up to 6 pages) will be submitted for inclusion in the 
 
 Proceedings of the previous Ural-PDC workshops are available at <http://ceur-ws.org/Vol-1513/>, <http://ceur-ws.org/Vol-1729/>, <http://ceur-ws.org/Vol-1990/>, and <http://ceur-ws.org/Vol-2281/>; these proceedings are indexed by Scopus.
 
-## Workshop Fees
-* Regular: 4000 RUB (includes submission for publication in the Workshop Proceedings, conference documentation, SIBIRCON welcome party and coffee breaks). 30% discount for an additional paper. Participant can not be co-author of more than three papers.
-* IEEE Member: 3000 RUB (includes submission for publication in the Workshop Proceedings, conference documentation, SIBIRCON welcome party and coffee breaks). 30% discount for an additional paper. Participant can not be co-author of more than three papers.
-* Postgraduate Student (first author & speaker): 3000 RUB (includes submission for publication in the Workshop Proceedings, conference documentation, SIBIRCON welcome party and coffee breaks). 30% discount for an additional paper. Participant can not be co-author of more than three articles.
-* A charge of 1000 RUB will be applied for each extra page.
-
 ## Paper Submission
 
-* Paper submission opens soon.
+Please use the [SIBIRCON Author Guidelines](https://sibircon.ieeesiberia.org/rules.php) to prepare your submission.
 
-The submissions will follow the [SIBIRCON Author Guidelines](https://sibircon.ieeesiberia.org/rules.php).
+The papers must be uploaded for review in a personal account on the [**Sibircon website**](https://sibircon.ieeesiberia.org), and also uploaded to the collection on the [IEEE PDF eXpress](www.pdf-express.org/plus/) (use the 48586XP for the Conference ID). 
 
 Each paper will be reviewed by at least three program committee members. We follow the post-proceedings publication model. Therefore, we will publish only those papers that are presented at the workshop. Final versions of accepted papers should include LaTeX sources.
 
@@ -51,3 +50,4 @@ Each paper will be reviewed by at least three program committee members. We foll
 
 Official and working language of Ural-PDC 2019 workshop is English.
 
+Workshop participation and paper publication are free of charge.
