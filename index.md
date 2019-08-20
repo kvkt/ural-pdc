@@ -34,7 +34,7 @@ Please register on the [SIBIRCON website](https://sibircon.ieeesiberia.org/regis
 
 ## Proceedings
 
-All accepted full papers (up to 6 pages) will be submitted for inclusion in the IEEE Xplore Digital Library as part of SIBIRCON 2019 Proceedings. IEEE has agreements with almost all of the top publishers, including Thomson Reuters, Elsevier, Google Scholar, ACM, IET etc. 
+All accepted papers (up to 6 pages) will be submitted for inclusion in the IEEE Xplore Digital Library as part of SIBIRCON 2019 Proceedings. IEEE has agreements with almost all of the top publishers, including Thomson Reuters, Elsevier, Google Scholar, ACM, IET etc. 
 
 Proceedings of the previous Ural-PDC workshops are available at <http://ceur-ws.org/Vol-1513/>, <http://ceur-ws.org/Vol-1729/>, <http://ceur-ws.org/Vol-1990/>, and <http://ceur-ws.org/Vol-2281/>; these proceedings are indexed by Scopus.
 
