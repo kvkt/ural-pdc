@@ -26,7 +26,7 @@ We invite submission of papers that present original previously unpublished rese
 * **Paper submission deadline:** September 15, 2019
 * **Notification of acceptance:** October 7, 2019
 * **Camera-ready version deadline:** October 14, 2019
-* **Workshop date:** October 25, 2019
+* **Workshop date:** October 26, 2019
 
 ## Registration
 
