@@ -6,7 +6,7 @@ description: 5th Ural Workshop on Parallel, Distributed, and Cloud Computing for
 
 [Ural Federal University](https://urfu.ru/en/) and [Krasovskii Institute of Mathematics and Mechanics](http://www.imm.uran.ru/eng) are jointly organizing the 5th Ural Workshop on Parallel, Distributed, and Cloud Computing for Young Scientists (Ural-PDC 2019). The aim of the workshop is to build the community of young researchers who work on modern problems in parallel, distributed, cloud computing and to provide an academic forum that fosters them to share their ideas and results.
 
-Ural-PDC 2019 will be held in conjuction with [2019 International Multi-Conference on Engineering, Computer and Information Sciences (SIBIRCON)](https://sibircon.ieeesiberia.org/).
+Ural-PDC 2019 will be held in conjuction with the [2019 International Multi-Conference on Engineering, Computer and Information Sciences (SIBIRCON)](https://sibircon.ieeesiberia.org/).
 
 ## Call for Papers
 
@@ -30,11 +30,11 @@ We invite submission of papers that present original previously unpublished rese
 
 ## Registration
 
-Please register on the [SIBIRCON website](https://sibircon.ieeesiberia.org/register.php), select "Mathematics, Computational Technologies, Software Engineering" section and Ural-PDC 2019 workshop inside the section.
+Please register on the [SIBIRCON website](https://sibircon.ieeesiberia.org/register.php), select the &ldquo;Mathematics, Computational Technologies, Software Engineering&rdquo; section and Ural-PDC 2019 workshop inside the section.
 
 ## Proceedings
 
-All accepted papers (up to 6 pages) will be submitted for inclusion in the IEEE Xplore Digital Library as part of SIBIRCON 2019 Proceedings. IEEE has agreements with almost all of the top publishers, including Thomson Reuters, Elsevier, Google Scholar, ACM, IET etc.
+All accepted papers (up to 6 pages) will be submitted for inclusion in the IEEE Xplore Digital Library as part of SIBIRCON 2019 Proceedings. IEEE has agreements with almost all of the top publishers, including Thomson Reuters, Elsevier, Google Scholar, ACM, IET, etc.
 
 Proceedings of the previous Ural-PDC workshops are available at <http://ceur-ws.org/Vol-1513/>, <http://ceur-ws.org/Vol-1729/>, <http://ceur-ws.org/Vol-1990/>, and <http://ceur-ws.org/Vol-2281/>; these proceedings are indexed by Scopus.
 
@@ -42,9 +42,9 @@ Proceedings of the previous Ural-PDC workshops are available at <http://ceur-ws.
 
 Please use the [SIBIRCON Author Guidelines](https://sibircon.ieeesiberia.org/rules.php) to prepare your submission.
 
-The papers must be uploaded for review in a personal account on the [**SIBIRCON website**](https://sibircon.ieeesiberia.org), and also uploaded to the collection on the [IEEE PDF eXpress](www.pdf-express.org/plus/) (use the 48586XP for the Conference ID).
+The papers must be uploaded for review in a personal account on the [**SIBIRCON website**](https://sibircon.ieeesiberia.org) and also uploaded to the collection on the [IEEE PDF eXpress](http://www.pdf-express.org/plus/) (use the `48586XP` as the Conference ID).
 
-Each paper will be reviewed by at least three program committee members. We follow the post-proceedings publication model. Therefore, we will publish only those papers that are presented at the workshop. Final versions of accepted papers should include LaTeX sources.
+Each paper will be reviewed by at least three program committee members. We follow the post-proceedings publication model. Therefore, we will publish only those papers that are presented at the workshop.
 
 ## Language
 
