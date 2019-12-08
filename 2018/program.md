@@ -19,7 +19,7 @@ program:
 - from: '11:00'
   till: '11:45'
   by:   'A. Popov, D. Nikitenko, A. Antonov and V. Voevodin'
-  talk: 'Formal Model of Problems, Methods, Algorithms and Implementations in the Advancing AlgoWiki Open Encyclopedia'  
+  talk: 'Formal Model of Problems, Methods, Algorithms and Implementations in the Advancing AlgoWiki Open Encyclopedia'
 
 - from: '11:45'
   till: '12:30'
@@ -48,8 +48,8 @@ program:
 - from: '13:40'
   till: '14:00'
   by:   'P. Shvets, V. Voevodin and S. Zhumatiy'
-  talk: 'Primary Automatic Analysis of the Entire Flow of Supercomputer Applications'  
-  
+  talk: 'Primary Automatic Analysis of the Entire Flow of Supercomputer Applications'
+
 - from: '14:00'
   till: '15:30'
   talk: 'Lunch'

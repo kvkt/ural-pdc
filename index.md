@@ -30,11 +30,11 @@ We invite submission of papers that present original previously unpublished rese
 
 ## Registration
 
-Please register on the [SIBIRCON website](https://sibircon.ieeesiberia.org/register.php), select "Mathematics, Computational Technologies, Software Engineering" section and Ural-PDC 2019 workshop inside the section. 
+Please register on the [SIBIRCON website](https://sibircon.ieeesiberia.org/register.php), select "Mathematics, Computational Technologies, Software Engineering" section and Ural-PDC 2019 workshop inside the section.
 
 ## Proceedings
 
-All accepted papers (up to 6 pages) will be submitted for inclusion in the IEEE Xplore Digital Library as part of SIBIRCON 2019 Proceedings. IEEE has agreements with almost all of the top publishers, including Thomson Reuters, Elsevier, Google Scholar, ACM, IET etc. 
+All accepted papers (up to 6 pages) will be submitted for inclusion in the IEEE Xplore Digital Library as part of SIBIRCON 2019 Proceedings. IEEE has agreements with almost all of the top publishers, including Thomson Reuters, Elsevier, Google Scholar, ACM, IET etc.
 
 Proceedings of the previous Ural-PDC workshops are available at <http://ceur-ws.org/Vol-1513/>, <http://ceur-ws.org/Vol-1729/>, <http://ceur-ws.org/Vol-1990/>, and <http://ceur-ws.org/Vol-2281/>; these proceedings are indexed by Scopus.
 
@@ -42,7 +42,7 @@ Proceedings of the previous Ural-PDC workshops are available at <http://ceur-ws.
 
 Please use the [SIBIRCON Author Guidelines](https://sibircon.ieeesiberia.org/rules.php) to prepare your submission.
 
-The papers must be uploaded for review in a personal account on the [**SIBIRCON website**](https://sibircon.ieeesiberia.org), and also uploaded to the collection on the [IEEE PDF eXpress](www.pdf-express.org/plus/) (use the 48586XP for the Conference ID). 
+The papers must be uploaded for review in a personal account on the [**SIBIRCON website**](https://sibircon.ieeesiberia.org), and also uploaded to the collection on the [IEEE PDF eXpress](www.pdf-express.org/plus/) (use the 48586XP for the Conference ID).
 
 Each paper will be reviewed by at least three program committee members. We follow the post-proceedings publication model. Therefore, we will publish only those papers that are presented at the workshop. Final versions of accepted papers should include LaTeX sources.
 
