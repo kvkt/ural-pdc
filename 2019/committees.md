@@ -6,21 +6,26 @@ description: Organizing and program committees of Ural-PDC 2019.
 
 ## Program Committee
 
-* Andrey Sozykin, Ural Federal University, Russia, *Co-Chair*
-* Dmitry Ustalov, Yandex, Saint Petersburg, Russia, *Co-Chair*
-* Anton Belyy, Johns Hopkins University, Baltimore, MD, USA
+* Andrey Sozykin, Ural Federal University, Russia, *Chair*
+* Elena Akimova, Krasovskii Institute of Mathematics and Mechanics, Yekaterinburg, Russia
+* Igor Anikin, Kazan National Research Technical University named after A.N. Tupolev, Kazan, Russia
+* Aleksandr Bersenev, Krasovskii Institute of Mathematics and Mechanics, Yekaterinburg, Russia
+* Tikhon Bolshakov, &ldquo;Road Safety&rdquo; State Company, Kazan, Russia
 * Mikhail Chernoskutov, Krasovskii Institute of Mathematics and Mechanics, Yekaterinburg, Russia
-* Pavel Drobintsev, Peter the Great St. Petersburg Polytechnic University, Saint Petersburg, Russia
-* Timofey Epanchintsev, Krasovskii Institute of Mathematics and Mechanics, Yekaterinburg, Russia
-* Alexey Grigoriev, Krasovskii Institute of Mathematics and Mechanics, Yekaterinburg, Russia
-* Mikhail Khrushchev, SKB Kontur, Yekaterinburg, Russia
-* Anton Koshelev, Tochka Bank, Yekaterinburg, Russia
+* Timofei Epanchintsev, Krasovskii Institute of Mathematics and Mechanics, Yekaterinburg, Russia
+* Boris Korneev, Keldysh Institute of Applied Mathematics, Moscow, Russia
 * Evgeniy Kuklin, Krasovskii Institute of Mathematics and Mechanics, Yekaterinburg, Russia
-* Iliya Obabkov, Ural Federal University, Yekaterinburg, Russia
-* Gleb Radchenko, South Ural State University, Chelyabinsk, Russia
-* Anastasia Shamakina, High Performance Center Stuttgart, Germany
+* Mikhail Kurnosov, Siberian State University of Telecommunications and Information Sciences, Novosibirsk, Russia
+* Sergei Pravdin, Krasovskii Institute of Mathematics and Mechanics, Yekaterinburg, Russia
+* Alexey Rodionov, Institute of Computational Mathematics and Mathematical Geophysics SB RAS, Novosibirsk, Russia
+* Vladimir Shakhov, University of Ulsan, Ulsan, Korea
+* Igor Skopin, Institute of Computational Mathematics and Mathematical Geophysics SB RAS, Novosibirsk, Russia
 * Svyatoslav Solodushkin, Ural Federal University, Yekaterinburg, Russia
+* Sergey Susarev, Samara State Technical University, Samara, Russia
 * Konstantin Ushenin, Institute of Immunology and Physiology, Yekaterinburg, Russia
+* Dmitry Ustalov, Yandex, Saint Petersburg, Russia
+* Vladimir Vasilev, Ural Federal University, Yekaterinburg, Russia
+* Vadim Voevodin, Research Computing Center, Lomonosov Moscow State University, Moscow, Russia
 
 ## Organizing Committee
 
